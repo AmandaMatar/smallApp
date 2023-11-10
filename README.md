@@ -9,7 +9,7 @@
 
 <br>
 
-[[!template](https://drive.google.com/uc?id=1sk5JiSlAbM7eW2N5gMYEo__2IDbfdKiv)](https://youtu.be/BXEvfFKHdIc)
+[![template](https://drive.google.com/uc?id=1sk5JiSlAbM7eW2N5gMYEo__2IDbfdKiv)](https://youtu.be/BXEvfFKHdIc)
 
 <br>
 
