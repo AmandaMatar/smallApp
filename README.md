@@ -5,6 +5,14 @@
 <br>
 <br>
 
+***Confira o template antes de seguir com o projeto.***
+
+<br>
+
+[!template](https://drive.google.com/uc?id=1sk5JiSlAbM7eW2N5gMYEo__2IDbfdKiv)](https://youtu.be/BXEvfFKHdIc)
+
+<br>
+
 ***Lembrando que esse é um pequeno projeto dentro do The Vue 3 Bootcamp - The Complete Developer Guide***
 
 <br>
